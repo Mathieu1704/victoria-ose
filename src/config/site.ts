@@ -3,13 +3,14 @@ export const siteConfig = {
   programName: "Accompagnement OSE",
 
   // ⚠️ À MODIFIER : lien de paiement Stripe
-  paymentUrl: "https://buy.stripe.com/test_8x2dR98I22oe16X84U8N200",
+  paymentUrl: "https://buy.stripe.com/test_4gMeVdcYi1ka02T3OE8N201",
 
   // Lien WhatsApp
   whatsappUrl:
     "https://api.whatsapp.com/send/?phone=32471827123&text&type=phone_number&app_absent=0",
 
-  livretUrl: "https://drive.google.com/uc?export=download&id=1WdXw6NMHoJSWGgQ0Ak9DZikzEEWZ6qlJ",
+  livretUrl:
+    "https://drive.google.com/uc?export=download&id=1WdXw6NMHoJSWGgQ0Ak9DZikzEEWZ6qlJ",
 
   // Calendly
   calendlyOseUrl:
