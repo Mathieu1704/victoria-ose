@@ -2,8 +2,8 @@ export const siteConfig = {
   name: "Victoria Coach PNL",
   programName: "Accompagnement OSE",
 
-  // ⚠️ À MODIFIER : lien de paiement Stripe
-  paymentUrl: "https://buy.stripe.com/test_4gMeVdcYi1ka02T3OE8N201",
+  //  À MODIFIER : lien de paiement Stripe
+  paymentUrl: "https://buy.stripe.com/7sY00i9r5cTp8rR33cbII00",
 
   // Lien WhatsApp
   whatsappUrl:
